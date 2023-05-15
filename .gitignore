@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+data/
+*.gz
+Assignment 1/MNIST/
+Assignment 1/data/
+Assignment 1/cifar-10-batches-py/
+Assignment 2/data/
+Week 5/FashionMNIST/
